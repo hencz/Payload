@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget size="640 480" name="PlanB"/>
+        <ImageTarget size="640 480" name="Flip1"/>
+        <ImageTarget size="640 480" name="Flip2"/>
+        <ImageTarget size="480 640" name="Getz"/>
+    </Tracking>
+</QCARConfig>
